@@ -1,0 +1,9 @@
+Resources
+* Binomial theorem - https://en.wikipedia.org/wiki/Binomial_theorem
+* A/B testing - https://vwo.com/ab-testing/
+* Sample size calculator - http://www.evanmiller.org/ab-testing/sample-size.html
+* Sign test calculator - http://graphpad.com/quickcalcs/binomial1.cfm
+* Bonferroni correction
+** http://www.stat.berkeley.edu/~mgoldman/Section0402.pdf
+** http://www.utdallas.edu/~herve/Abdi-Bonferroni2007-pretty.pdf
+** http://onlinelibrary.wiley.com/doi/10.1111/opo.12131/full
